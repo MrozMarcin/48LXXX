@@ -1,2 +1,2 @@
 # 48LXXX
-Driver for 48LXXX SRAM memory
+Driver for 48LXXX EERAM memory
